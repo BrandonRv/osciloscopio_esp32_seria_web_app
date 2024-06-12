@@ -1,0 +1,9 @@
+#line 1 "/Users/brandonrv/Documents/PROYECTO PELADO UNIVERSIDAD/generador_de_onda/.vscode/arduino.json"
+{
+    "sketch": "generador_de_onda.ino",
+    "output": "build",
+    "configuration": "FlashFreq=80,UploadSpeed=115200,DebugLevel=none,EraseFlash=none",
+    "board": "esp32:esp32:esp32doit-devkit-v1",
+    "port": "/dev/tty.SLAB_USBtoUART",
+    "programmer": "esptool"
+}
